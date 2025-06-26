@@ -1,10 +1,10 @@
-# 📝 Task Manager (React + Express + PostgreSQL)
+#  Task Manager (React + Express + PostgreSQL)
 
 A full-stack task management web applicationL. Users can sign up, log in, manage tasks (create, update, delete), and track them by status (To Do, In Progress, Done).
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 - **Frontend**: React (Vite), Tailwind CSS, React Router, React Hot Toast
 - **Backend**: Node.js, Express.js, JWT Auth
@@ -12,25 +12,25 @@ A full-stack task management web applicationL. Users can sign up, log in, manage
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ![image](https://github.com/user-attachments/assets/c5895514-b486-4802-84e5-6605a1294bfe)
 
 ---
 
-## ✅ Features
+##  Features
 
-- 🔐 JWT Authentication (Login/Signup)
-- 📋 Task creation with title & default status
-- 🔁 Update task status (To Do, In Progress, Done)
-- ✏️ Edit task titles
-- ❌ Delete tasks
-- 👤 Profile page showing user info
-- 🚪 Logout & protected routes
-- 💬 Toast notifications for success/errors
+-  JWT Authentication (Login/Signup)
+-  Task creation with title & default status
+-  Update task status (To Do, In Progress, Done)
+-  Edit task titles
+-  Delete tasks
+-  Profile page showing user info
+-  Logout & protected routes
+-  Toast notifications for success/errors
 
 ---
-## ⚙️ Local Setup Instructions
+##  Local Setup Instructions
 
 1. Clone the Repository
 
